@@ -3,7 +3,7 @@ import EventCard from "@/components/EventCard";
 import events from "@/lib/constants";
 
 const Home = () => {
-  console.log("timeee:1:41:36");
+  console.log("timeee:02:09:36");
   return (
     <section>
       <h1 className="text-center">
